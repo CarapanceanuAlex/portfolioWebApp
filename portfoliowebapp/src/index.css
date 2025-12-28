@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+
+  --color-LightPurple: rgba(158, 150, 180);
+  --color-Gold: rgba(234, 194, 73);
+  --color-Bone: rgba(250, 250, 236);
+  --color-SoftGold: rgba(251, 234, 169);
+
+}
