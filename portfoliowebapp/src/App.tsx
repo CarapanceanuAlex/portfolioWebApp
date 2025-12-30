@@ -6,6 +6,7 @@ import Projects from './pages/projectsPage';
 import ScrollToTop from './components/scrollToTop';
 import ContactMe from './pages/contactMe';
 import HuntingBibel from './pages/projects/huntingBibel';
+import GardenWeather from './pages/projects/gardenWeather';
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
           <Route path='/' element={<Home/>}/>
           <Route path='/projects' element={<Projects/>}/>
           <Route path='/projects/huntingBibel' element={<HuntingBibel/>}/>
+          <Route path='/projects/gardenWeather' element={<GardenWeather/>}/>
           <Route path='/contact' element={<ContactMe/>}/>
         </Routes>
 

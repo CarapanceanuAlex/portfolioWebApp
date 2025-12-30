@@ -6,7 +6,7 @@ import CoolBackground from '../components/coolBackground';
 function Projects () {
     const projects = [
         { id: 1, image: testImg, title: 'Hunting Bibel', link: '/projects/huntingBibel' },
-        { id: 2, image: testImg, title: 'bffesr' },
+        { id: 2, image: testImg, title: 'My garden weather', link: '/projects/gardenWeather' },
         { id: 3, image: testImg, title: 'hhghfg' },
         { id: 4, image: testImg, title: 'rrs' },
         { id: 5, image: testImg, title: 'Hunt' },
